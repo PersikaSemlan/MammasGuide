@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"hem/","title":"Hem","text":""},{"location":"hem/#test","title":"test","text":"<p>test</p>"},{"location":"vetenskap/","title":"Vetenskap","text":""},{"location":"vetenskap/#test","title":"test","text":""}]}
