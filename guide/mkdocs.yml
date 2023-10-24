@@ -1,0 +1,43 @@
+site_name: Mammas Guide
+nav:
+  - Hem: hem.md
+  - Vetenskap: vetenskap.md
+#  - Recept: recept.md
+#  - Schema: schema.md 
+
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy 
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+      primary: light blue
+      accent: blue
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
+      primary: light blue
+      accent: blue
+plugins: 
+  - search 
+
+markdown_extensions: 
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc: 
+      permalink: "#"
