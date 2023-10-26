@@ -28,6 +28,7 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 
 
 **Bör undvikas**
+
 - Solrosfrön 
 - Vete
 
@@ -60,6 +61,7 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 
 
 **Bör undvikas**
+
 - Avokado 
 - Bana 
 - Inlagda oliver
@@ -214,12 +216,14 @@ Alla svampar innehåller höga mängder histamin och ska därför undvikas för 
 ###Örter, kryddor, té, kaffe, och tillsatser 
 
 **Godkänt**
+
 - Alla örter 
 - Alla kryddor som inte nämns nedan
 - Grönt té i.s.m
 - Kaffe i.s.m
 
 **Bör undvikas**
+
 - Kummin 
 - Curry 
 - Senapsfrö

@@ -1,6 +1,6 @@
 site_name: Mammas Guide
 nav:
-  - Hem: hem.md
+  - Hem: index.md
   - Vetenskap: vetenskap.md
 #  - Recept: recept.md
 #  - Schema: schema.md 
@@ -23,19 +23,23 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Dark mode
-      primary: light blue
-      accent: blue
+      primary: red
+      accent: deep orange
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Light mode
-      primary: light blue
-      accent: blue
+      primary: black
+      accent: blue grey
+  logo: icon100.png
+  favicon: icon100.png
 plugins: 
   - search 
 
 markdown_extensions: 
   - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
