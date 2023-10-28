@@ -1,8 +1,8 @@
 site_name: Mammas Guide
 nav:
   - Hem: index.md
-  - Kost: vetenskap.md
-  - Rutiner: kost.md
+  - Kost: kost.md
+  - Rutiner: rutin.md
   - Visa ord: visaord.md
 #  - Recept: recept.md
 #  - Schema: schema.md 
