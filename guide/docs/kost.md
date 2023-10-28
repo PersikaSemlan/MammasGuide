@@ -1,6 +1,6 @@
-#Vetenskap
+#Kost
 
-##Metodik
+##Metod 
 Jag har valt snittet av mat som är bra för leverhälsan och mat som är godkänt low-FODMAP och low-histamine. 
 
 
@@ -23,7 +23,7 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 - Quinoa
 - Ris
 - Sago
-- Dinkel i.s.m.
+- Dinkel*
 - Majs
 
 
@@ -66,8 +66,8 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 - Bana 
 - Inlagda oliver
 - Torkade frukter 
-- Citrusfrukter i.s.m.
-- Kakaopulver i.s.m 
+- Citrusfrukter*
+- Kakaopulver*
 - Guava
 - Kiwi
 - Mango
@@ -83,7 +83,6 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 **Godkänt**
 
 - Kronärtskocka 
-- Sparris 
 - Rödbetor 
 - Paprika
 - Bok choi
@@ -108,6 +107,7 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 - Spenat
 - Brännässla
 - Tomat 
+- Sparris
 
 
 
@@ -210,7 +210,7 @@ Måste alkohol förtäras, välj helst vodka, tequila, gin eller whiskey i väld
 
 ###Svamp 
 
-Alla svampar innehåller höga mängder histamin och ska därför undvikas för att förhindra inflammation. Jäst är godkänt så länge det används i degar som får jäsa under längre tid.
+Alla svampar innehåller höga mängder histamin och FODMAPs och ska därför undvikas för att förhindra inflammation. Jäst är godkänt så länge det används i degar som får jäsa under längre tid.
 
 
 ###Örter, kryddor, té, kaffe, och tillsatser 
@@ -219,8 +219,8 @@ Alla svampar innehåller höga mängder histamin och ska därför undvikas för 
 
 - Alla örter 
 - Alla kryddor som inte nämns nedan
-- Grönt té i.s.m
-- Kaffe i.s.m
+- Grönt té*
+- Kaffe*
 
 **Bör undvikas**
 
